@@ -27,12 +27,12 @@ I know electronics (diploma background) but I'm learning Python. This project is
 # Hardware 
 | Component |
 
-1,Arduino Uno 
-2,LED (any color) 
-3,220Ω or 350Ω Resistor
-4,Breadboard
-5,Jumper wires 
-6,USB Cable 
+- Arduino Uno 
+- LED (any color) 
+= 220Ω or 350Ω Resistor
+- Breadboard
+- Jumper wires 
+- USB Cable 
 
 # Software
 - Python 3.7 or higher
