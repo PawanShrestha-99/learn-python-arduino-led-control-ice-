@@ -18,10 +18,10 @@ while True:
         break
     elif cmd == '1':
         arduino.write(b'1')  # b means bytes
-        print("💡 LED ON")
+        print("LED ON")
     elif cmd == '0':
         arduino.write(b'0')
-        print("🌑 LED OFF")
+        print("LED OFF")
     else:
         print("Try: 1, 0, or q")
 
