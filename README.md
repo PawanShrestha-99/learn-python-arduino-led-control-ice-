@@ -12,10 +12,9 @@ I know electronics (diploma background) but I'm learning Python. This project is
 - Python can't control hardware directly - this shows the bridge (Arduino)
 
 # 🎬 Video Tutorial
+https://youtu.be/fErw_7rlwlc?si=aOP2-pen70bEn2d-
 
-[![Watch on YouTube]
-
-*Click image to watch the complete tutorial*
+*Click and watch the complete tutorial*
 
 **Simple explanation:**
 - Python = Brain (decides what to do)
