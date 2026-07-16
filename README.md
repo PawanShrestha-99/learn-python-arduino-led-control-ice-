@@ -76,8 +76,9 @@ Enter command: q  → (good bye)
 - Day 4: (coming soon)
 
 # 🤝 Connect With Me
-- YouTube: [Your Channel Link]
-- Instagram: [Your Handle]
+- YouTube: https://youtube.com/@iceandinputnepal?si=ouj6kKeEpmGdOqKq
+
+- Instagram:https://www.instagram.com/iceandinputnepal?igsh=MTJpMzU0ZHhpcndzcg==
 
 # 📄 License
 MIT - Free for everyone to use and learn!
