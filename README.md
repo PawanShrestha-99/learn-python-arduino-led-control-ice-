@@ -28,7 +28,7 @@ https://youtu.be/fErw_7rlwlc?si=aOP2-pen70bEn2d-
 
 - Arduino Uno 
 - LED (any color) 
-= 220Ω or 350Ω Resistor
+- 220Ω or 350Ω Resistor
 - Breadboard
 - Jumper wires 
 - USB Cable 
@@ -56,8 +56,8 @@ https://youtu.be/fErw_7rlwlc?si=aOP2-pen70bEn2d-
 Open terminal/command prompt:
 ```bash
 pip install pyserial
-6.copy code(python)
-7.Now run this code and 
+copy code(python)
+Now run this code and 
 Enter command: 1  → (LED turns ON)
 Enter command: 0  → (LED turns OFF)
 Enter command: q  → (good bye)
